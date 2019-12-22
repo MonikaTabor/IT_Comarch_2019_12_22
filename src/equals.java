@@ -9,4 +9,5 @@ public class equals {
     public boolean equals(Object o) {
         Vehicle v = (Vehicle )
     }
-}
+} /*nnnnnnn
+*/
