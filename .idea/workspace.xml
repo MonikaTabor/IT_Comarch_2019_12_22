@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c0a7243-7498-4c61-9464-a0b6c002d89e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Testy_Moni" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V59cM8XlWpSzUVTs5nJYJhHAk7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="New" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="New" />
+      <module name="Testy_Moni" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.New" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c0a7243-7498-4c61-9464-a0b6c002d89e" name="Default Changelist" comment="" />
+      <created>1576532166653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576532166653</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Inspections" timestamp="1576534873588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1576534873588" />
+    <state x="400" y="33" key="#New" timestamp="1576535389288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="33" key="#New/0.0.1366.728@0.0.1366.728" timestamp="1576535389288" />
+    <state x="275" y="21" key="#Notifications" timestamp="1576534200101">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1576534200101" />
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576534844422">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576534844422" />
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576534941222">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1576534941222" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1576536855771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576536855771" />
+    <state width="1322" height="104" key="GridCell.Tab.0.bottom" timestamp="1576536680886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576536680870" />
+    <state width="1322" height="104" key="GridCell.Tab.0.center" timestamp="1576536680870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576536680870" />
+    <state width="1322" height="104" key="GridCell.Tab.0.left" timestamp="1576536680870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576536680870" />
+    <state width="1322" height="104" key="GridCell.Tab.0.right" timestamp="1576536680870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576536680870" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1576535016371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576535016371" />
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup" timestamp="1576534411066">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="157" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576534411066" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576535167409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576535167409" />
+  </component>
+</project>
